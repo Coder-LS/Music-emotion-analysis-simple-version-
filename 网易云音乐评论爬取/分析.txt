@@ -1,0 +1,17 @@
+https://c.y.qq.com/base/fcgi-bin/fcg_global_comment_h5.fcg?g_tk=167981834&jsonpCallback=jsoncallback45543998741621805&loginUin=1217750958&hostUin=0&format=jsonp&inCharset=utf8&outCharset=GB2312&notice=0&platform=yqq&needNewCode=0&cid=205360772&reqtype=2&biztype=1&topid=107192078&cmd=8&needmusiccrit=0&pagenum=0&pagesize=25&lasthotcommentid=&callback=jsoncallback45543998741621805&domain=qq.com&ct=24&cv=101010
+
+
+
+https://c.y.qq.com/base/fcgi-bin/fcg_global_comment_h5.fcg?g_tk=167981834&jsonpCallback=jsoncallback41215166910354917&loginUin=1217750958&hostUin=0&format=jsonp&inCharset=utf8&outCharset=GB2312&notice=0&platform=yqq&needNewCode=0&cid=205360772&reqtype=2&biztype=1&topid=107192078&cmd=8&needmusiccrit=0&pagenum=0&pagesize=25&lasthotcommentid=&callback=jsoncallback41215166910354917&domain=qq.com&ct=24&cv=101010
+
+
+https://c.y.qq.com/base/fcgi-bin/fcg_global_comment_h5.fcg?g_tk=167981834&jsonpCallback=jsoncallback817897800171542&loginUin=1217750958&hostUin=0&format=jsonp&inCharset=utf8&outCharset=GB2312&notice=0&platform=yqq&needNewCode=0&cid=205360772&reqtype=2&biztype=1&topid=107192078&cmd=8&needmusiccrit=0&pagenum=1&pagesize=25&lasthotcommentid=song_107192078_2310218482_1537769836&callback=jsoncallback817897800171542&domain=qq.com&ct=24&cv=101010
+
+
+C:\Python36\Lib\site-packages\crypto    c–°–¥±‰¥Û–¥
+
+
+https://c.y.qq.com/base/fcgi-bin/fcg_global_comment_h5.fcg?g_tk=167981834&jsonpCallback=jsoncallback5208281959315566&loginUin=1217750958&hostUin=0&format=jsonp&inCharset=utf8&outCharset=GB2312&notice=0&platform=yqq&needNewCode=0&cid=205360772&reqtype=2&biztype=1&topid=107192078&cmd=8&needmusiccrit=0&pagenum=2&pagesize=25&lasthotcommentid=song_107192078_1146918447_1537746117&callback=jsoncallback5208281959315566&domain=qq.com&ct=24&cv=101010
+
+
+https://c.y.qq.com/base/fcgi-bin/fcg_global_comment_h5.fcg?g_tk=167981834&jsonpCallback=jsoncallback09351744671587836&loginUin=1217750958&hostUin=0&format=jsonp&inCharset=utf8&outCharset=GB2312&notice=0&platform=yqq&needNewCode=0&cid=205360772&reqtype=2&biztype=1&topid=107192078&cmd=8&needmusiccrit=0&pagenum=3&pagesize=25&lasthotcommentid=song_107192078_2530862915_1537705586_2713480401_1537713891&callback=jsoncallback09351744671587836&domain=qq.com&ct=24&cv=101010

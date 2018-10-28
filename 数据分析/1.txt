@@ -1,0 +1,12 @@
+C:\\Users\LS\Desktop\音乐评论分析\网易云音乐评论爬取\comments
+
+C:\\Users\LS\Desktop\音乐评论分析\网易云音乐评论爬取\comments\1293886117.txt
+
+C:\Windows\Fonts\微软雅黑.ttc
+
+ C:\Users\LS\AppData\Local\Temp\jieba.cache
+
+
+
+
+1293886117.txt    msyh.ttc  lironghao.jpg
